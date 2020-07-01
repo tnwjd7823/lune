@@ -192,7 +192,7 @@ a:hover,a:focus {
 
 
 /* About */
-
+.about .col-md-6{padding-top:30px;}
 
 .big-letter p:first-child:first-letter { 
 	float: left; 
@@ -453,8 +453,8 @@ a:hover,a:focus {
 	letter-spacing:1px;
 }*/
 
-.press .col-md-4 {width:50%; display:block; margin:0 auto; padding-left:30px; padding-top:10px;}
-.press .col-md-5{width:30%; margin:-15px 0 0 10px;}
+.press .col-md-4 {width:50%; display:block; margin:0 auto; padding-left:30px; padding-top:45px;}
+.press .col-md-5{width:30%; margin:18px 0 0 20px;}
 .pull-right{width:100%; padding-top:10px;}
 
 
