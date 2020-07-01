@@ -175,8 +175,8 @@ a:hover,a:focus {
 	transform: none;
 	width: 30px;
 }
-.logo_box{width:130px;}
-.logo{width:100%;}
+.logo_box{width:130px;text-align:center;}
+.logo{width:100%; display:block; text-align:center;}
 
 
 /* Intro */
